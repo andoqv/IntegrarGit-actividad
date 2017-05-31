@@ -12,20 +12,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:text="@string/texto_primario"
+        android:text="@string/aprendiendo"
         android:textColor="#000"
         android:gravity="center_horizontal"
         android:textSize="36sp" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="71dp"
-        android:text="@string/deshaciendo_cambios"
-        android:textColor="#000"
-        android:textSize="18sp" />
 
 </RelativeLayout>

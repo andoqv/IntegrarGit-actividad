@@ -2,4 +2,5 @@
     <string name="app_name">IntegrarGit-actividad</string>
     <string name="hello_world">Actividad de Git con
     Android Studio</string>
+    <string name="aprendiendo">Aprendiendo a usar Git en esta actividad</string>
 </resources>
